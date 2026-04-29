@@ -13,6 +13,8 @@
 - **Aura Voice**: Hands-free intelligence access for real-time strategic updates via voice commands.
 - **The War Room**: Real-time collaborative environment for synchronized executive decision-making.
 
+ <img width="1363" height="675" alt="Screenshot 2026-04-29 151601" src="https://github.com/user-attachments/assets/cb663868-1ecb-4898-ba0b-027c44ffff44" />
+
 ---
 
 ## 🛠 Tech Stack
