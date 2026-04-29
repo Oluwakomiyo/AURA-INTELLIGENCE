@@ -1,0 +1,5 @@
+{
+  "name": "Aura Intelligence",
+  "description": "A high-fidelity executive intelligence suite powered by Gemini, featuring real-time strategic insights and advanced analytics.",
+  "requestFramePermissions": ["microphone"]
+}
