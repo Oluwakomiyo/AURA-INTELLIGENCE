@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Core Strategic Modules
+## Core Strategic Modules
 
 - **Executive Overview**: A high-density dashboard featuring real-time KPIs, market trends, and asset tracking.
 - **Aura AI Intelligence**: A strategic chat interface powered by Gemini 1.5 Flash for deep financial and operational analysis.
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Framework**: React 19 + Vite
@@ -34,7 +34,7 @@
 
 ---
 
-## 🛡 Security & Production Integrity
+## Security & Production Integrity
 
 Aura is built with a "Production-First" mindset, including:
 - **Rate Limiting**: Protection against API abuse via `express-rate-limit`.
@@ -45,7 +45,7 @@ Aura is built with a "Production-First" mindset, including:
 
 ---
 
-## 📊 API Specification
+## API Specification
 
 | Endpoint | Method | Purpose |
 | :--- | :--- | :--- |
@@ -57,7 +57,7 @@ Aura is built with a "Production-First" mindset, including:
 
 ---
 
-## ⚖️ License
+## License
 
 Proprietary Intelligence Platform. All Rights Reserved.
 
